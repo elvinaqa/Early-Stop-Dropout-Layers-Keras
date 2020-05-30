@@ -13,3 +13,8 @@ Each layer drops user-defined number of neurons in previous layer in every batch
 
 
 # tracking validation loss  - test set accuracy is low while train is much higher
+
+After 
+#dropout
+
+![download (2)](https://user-images.githubusercontent.com/57037068/83326149-9c4d9600-a282-11ea-9af4-8aecbf953020.png)
