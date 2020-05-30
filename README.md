@@ -1,6 +1,8 @@
 # Early-Stop-Dropout-Layers-Keras
+Early stop and dropout layers of Keras deep learning model with implementation to the Cancer classification problem. Reached to the solutions and presentation of both early-stop callback and dropout layer in the model with the accuracy of 96% in a semi-balanced model
 One of the ways for handling overfitting is the function of early stop and drop out from training according to the loss condition during the train process.
-Dropout layers swithc off some layers and nuerons in certain loss conditions to prevent overfitting.
+
+Dropout layers switch off some layers and nuerons in certain loss conditions to prevent overfitting.
 Each layer drops user-defined number of neurons in previous layer in every batch.
 
 
@@ -15,6 +17,6 @@ Each layer drops user-defined number of neurons in previous layer in every batch
 # tracking validation loss  - test set accuracy is low while train is much higher
 
 After 
-#dropout
+# dropout
 
 ![download (2)](https://user-images.githubusercontent.com/57037068/83326149-9c4d9600-a282-11ea-9af4-8aecbf953020.png)
